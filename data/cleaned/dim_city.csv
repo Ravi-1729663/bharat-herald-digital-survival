@@ -1,0 +1,11 @@
+city_id,edition_id,city,state,tier
+C001,ED1001,Lucknow,Uttar Pradesh,Tier 2
+C002,ED1002,Delhi,Delhi,Tier 1
+C003,ED1003,Bhopal,Madhya Pradesh,Tier 2
+C004,ED1004,Patna,Bihar,Tier 2
+C005,ED1005,Jaipur,Rajasthan,Tier 2
+C006,ED1006,Mumbai,Maharashtra,Tier 1
+C007,ED1007,Ranchi,Jharkhand,Tier 3
+C008,ED1008,Kanpur,Uttar Pradesh,Tier 2
+C009,ED1009,Ahmedabad,Gujarat,Tier 1
+C010,ED1010,Varanasi,Uttar Pradesh,Tier 2
